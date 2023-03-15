@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Flu-iid
-- 👀 I’m interested in frontnd technologies
-- 🌱 I’m currently learning and practicing react/next and typescript
-- 💞️ I’m looking to collaborate on react-base projects
+- 👀 I’m interested in Computer-Science and algorithms
+- 🌱 I’m currently learning and practicing DSA and their implementations
+- 💞️ I’m looking for competitive programming groups
 - 📫 How to reach me => flu0iid@gmail.com
 
 <!---
