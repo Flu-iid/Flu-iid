@@ -1,24 +1,26 @@
 <!--Thu Mar 21 11:04:44 2024-->
 
-# 💫 About Me:
+<h1 align="center">Flu-iid here</h1>
 
-<p align="center">🔭 I’m currently working on</p>
+<h3>🔭 I’m currently working on</h3>
 
-- data_analysis and scrapping with python
-- DSA
+> - data_analysis and scrapping with python
+>
+> - DSA
 
-<p align="center">👯 I’m looking to collaborate on</p>
+<h3>👯 I’m looking to collaborate on</h3>
 
-- python based projects
+> - python based projects
 
-<p align="center">🌱 I’m currently learning</p>
+<h3>🌱 I’m currently learning</h3>
 
-- cpp DSA
-- java
+> - cpp DSA
+>
+> - java
 
-<p align="center">⚡ passionate about</p>
+<h3>⚡ passionate about</h3>
 
-- problem_solving, coding competitions and algorithms
+> - problem_solving, coding competitions and algorithms
 
 ## 🌐 Socials:
 
