@@ -40,11 +40,13 @@
 
 <!-- DS -->
 
+<div>
 <img height = "30" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat-square" alt="NumPy Badge">
 <img height = "30" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square" alt="pandas Badge">
 <img height = "30" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
 <img height = "30" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat-square" alt="scikit-learn Badge">
 <img height = "30" src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff&style=flat-square" alt="Anaconda Badge">
+</div>
 
 <!-- DB -->
 
