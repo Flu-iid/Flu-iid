@@ -75,9 +75,9 @@
 
 <div align="center"><h1>📊 GitHub Stats</h1>
 
-![](https://github-readme-stats.vercel.app/api?username=flu-iid&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=flu-iid&theme=react&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=flu-iid&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=flu-iid&theme=react&hide_border=false)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flu-iid&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![score](https://github-readme-stats.vercel.app/api?username=flu-iid&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 
 </div>
 
