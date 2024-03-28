@@ -32,15 +32,16 @@
 <h1 align="center">💻 Tech Stack</h1>
 
 <!-- languages -->
+<div id = "languages">
 <img height = "30" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" alt="Python Badge">
 <img height = "30" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat-square" alt="GNU Bash Badge">
 <img height = "30" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat-square" alt="Markdown Badge">
-
+</div>
 <!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  -->
 
 <!-- DS -->
 
-<div>
+<div id="ds">
 <img height = "30" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat-square" alt="NumPy Badge">
 <img height = "30" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square" alt="pandas Badge">
 <img height = "30" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
@@ -49,7 +50,7 @@
 </div>
 
 <!-- DB -->
-
+<div id = "db">
 <img height = "30" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square" alt="MySQL Badge">
 <img height = "30" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat-square" alt="SQLite Badge">
 <img height = "30" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square" alt="PostgreSQL Badge">
@@ -61,6 +62,8 @@
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)  -->
 <!-- ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![KIBANA](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white&color=%23005571)  -->
+</div>
+<div id = "dev">
 <!-- devs -->
 <!-- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)  -->
@@ -68,6 +71,7 @@
 <img height = "30" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square" alt="Docker Badge">
 <img height = "30" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square" alt="Postman Badge">
 <img height = "30" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat-square" alt="Jenkins Badge">
+</div>
 
 <div align="center"><h1>📊 GitHub Stats</h1>
 
