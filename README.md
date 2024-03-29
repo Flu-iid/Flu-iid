@@ -70,7 +70,8 @@
 
 <img height = "30" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square" alt="Docker Badge">
 <img height = "30" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square" alt="Postman Badge">
-<img height = "30" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat-square" alt="Jenkins Badge">
+<img height = "30" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat-square" alt="Linux">
+<!-- <img height = "30" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat-square" alt="Jenkins Badge"> -->
 </div>
 
 <div align="center"><h1>📊 GitHub Stats</h1>
