@@ -4,23 +4,26 @@
 
 <h3>🔭 I’m currently working on</h3>
 
-> - data_analysis and scrapping with python
+> - data_analysis and scrapping with <img height = "20" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic" alt="python">
 >
 > - DSA
 
 <h3>👯 I’m looking to collaborate on</h3>
 
-> - python based projects
+> - <img height = "20" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic" alt="python"> based projects
 
 <h3>🌱 I’m currently learning</h3>
 
-> - cpp DSA
+> - <img height = "20" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=plastic" alt="c">
 >
-> - java
+> - <img height = "20" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=plastic" alt = "cpp">
+>
+> - <img height = "20" src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white" alt="java">
 
 <h3>⚡ passionate about</h3>
 
-> - problem_solving, coding competitions and algorithms
+> - problem_solving, coding competitions and
+>   <img height = "20" src="https://img.shields.io/badge/The%20Algorithms-00BCB4?logo=thealgorithms&logoColor=fff&style=plastic" alt="the aglorithms">
 
 ## 🌐 Socials:
 
