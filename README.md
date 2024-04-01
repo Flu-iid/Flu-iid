@@ -99,4 +99,8 @@
 
 ---
 
-<div align = "center"><a href="https://visitcount.itsvg.in"><img src = "https://visitcount.itsvg.in/api?id=flu-iid&icon=3&color=12"/></a></div>
+<div align = "center">
+    <a href="https://visitcount.itsvg.in">
+        <img src = "https://visitcount.itsvg.in/api?id=flu-iid&icon=3&color=12" alt = "count">
+    </a>
+</div>
