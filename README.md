@@ -31,7 +31,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arsham-mahdiun-9a131a24b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://reddit.com/user/Flu-iid"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"></a>
 <a href="https://t.me/Arshamm1997"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" alt="Telegram"></a>
-
+<p>pypi: https://pypi.org/user/flu-iid/</p>
 <h1 align="center">💻 Tech Stack</h1>
 
 <!-- languages -->
